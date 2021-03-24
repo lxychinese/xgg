@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "zhuan",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.1375,
+  "sample": 80,
+  "speed": 0.1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.8,
+            "y": 0.8
+          }
+        },
+        {
+          "frame": 0.0625,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.7,
+            "y": 0.7
+          }
+        },
+        {
+          "frame": 0.125,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.8,
+            "y": 0.8
+          }
+        },
+        {
+          "frame": 0.1375,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.8,
+            "y": 0.8
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}
