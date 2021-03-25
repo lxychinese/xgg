@@ -110,7 +110,7 @@ export default class game extends cc.Component {
     share(){
         wx.shareAppMessage({
             title: "合成大西瓜",
-            imageUrl: 'http://kjg-h5.996a.com/xg3.png'
+            imageUrl: 'http://liuxiaoyang.cn/xg3.png'
         })
     }
 
@@ -120,13 +120,13 @@ export default class game extends cc.Component {
             wx.onShareAppMessage(() => {
                 return {
                     title: "合成大西瓜",
-                    imageUrl: 'http://kjg-h5.996a.com/xg3.png'
+                    imageUrl: 'http://liuxiaoyang.996a.com/xg3.png'
                 }
             })
             wx.onShareTimeline(() => {
                 return {
                     title: '合成大西瓜',
-                    imageUrl: 'http://kjg-h5.996a.com/xg3.png'
+                    imageUrl: 'http://liuxiaoyang.996a.com/xg3.png'
                 }
             })
         }

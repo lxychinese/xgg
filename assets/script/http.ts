@@ -2,7 +2,7 @@
 const { ccclass, property } = cc._decorator;
 
 
-const url = "https://open-pay.996a.com";
+const url = "https://liuxiaoyang.com";
 export default class http {
 
     /**
